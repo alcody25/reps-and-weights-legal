@@ -1,0 +1,11 @@
+{
+  "name": "reps-and-weights-legal",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.19.4 <21 || >=22.13.0"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  }
+}
